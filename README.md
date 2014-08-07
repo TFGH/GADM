@@ -1,8 +1,7 @@
 GADM Overview
 ====
 
-Global Administrative Areas
-GADM is a database of the location of the world's administrative areas (e.g., states, countries, provinces). Administrative areas in this database include detail on countries, first-level units (e.g., states, provinces), and second-level units (e.g., counties, departments, districts).
+Global Administrative Areas (GADM) is a database of the location of the world's administrative areas (e.g., states, countries, provinces). Administrative areas in this database include detail on countries, first-level units (e.g., states, provinces), and second-level units (e.g., counties, departments, districts).
 
 The base data from gadm.org was last updated in January 2012.
 
