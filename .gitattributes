@@ -20,3 +20,12 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+#Other binary files
+*.cpg -crlf -diff
+*.shp -crlf -diff
+*.dbf -crlf -diff
+*.prj -crlf -diff
+*.sbx -crlf -diff
+*.sbn -crlf -diff
+*.shx -crlf -diff
