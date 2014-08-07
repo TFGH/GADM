@@ -27,3 +27,6 @@
 *.sbx -crlf -diff
 *.sbn -crlf -diff
 *.shx -crlf -diff
+
+#Other files like UTF
+*.geojson set diff
